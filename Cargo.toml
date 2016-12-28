@@ -1,0 +1,6 @@
+[package]
+name = "dot-matrix"
+version = "0.1.0"
+authors = ["Charles Saracco"]
+
+[dependencies]
